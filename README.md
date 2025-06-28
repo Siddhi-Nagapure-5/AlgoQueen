@@ -1,12 +1,57 @@
-# React + Vite
+# 👑 AlgOQueen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **AlgOQueen** — a clean and elegant React-based dashboard that showcases my competitive coding profiles. Built with React, Tailwind CSS, and Framer Motion, this project reflects my journey across platforms like LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
 
-Currently, two official plugins are available:
+> Crafted with ❤️ by **Siddhi Nagapure**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Beautiful gradient-based UI
+- 🧩 Responsive layout for mobile & desktop
+- 🌀 Smooth hover and entrance animations
+- ⚡ Profile cards with platform links
+- 💻 Built using React + Tailwind + Framer Motion
+
+---
+
+## 🛠 Tech Stack
+
+| Technology    | Description                          |
+|---------------|--------------------------------------|
+| React         | Frontend JavaScript library          |
+| Tailwind CSS  | Utility-first CSS framework          |
+| Framer Motion | Animations & transitions             |
+| React Icons   | Icons from popular dev platforms     |
+| Vercel        | Deployment platform (SPA support)    |
+
+---
+
+### 🔗 Live Demo
+
+👉 [View Live on Vercel](https://your-vercel-deployment-url.vercel.app)
+
+---
+
+### 📂 Folder Structure
+
+    src/
+    ├── pages/
+    │ └── MyLinks.jsx # Main component
+    ├── App.jsx # Routing setup
+    └── main.jsx # Entry point
+
+### 🧠 Purpose
+    This project serves as a personal portfolio hub to showcase my presence and progress across various coding platforms in a simple, yet professional manner.
+
+### 👩‍💻 Author
+    Siddhi Nagapure
+    📫 Email: siddhinagapure@example.com
+
+### 💬 Quote
+**“Be the queen of your own algorithmic kingdom.”**
+
+
+### ⭐ Feedback & Contributions
+    If you like the project, give it a ⭐ on GitHub!
