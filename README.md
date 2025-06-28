@@ -1,6 +1,6 @@
-# 👑 AlgOQueen
+# 👑 AlgoQueen
 
-Welcome to **AlgOQueen** — a clean and elegant React-based dashboard that showcases my competitive coding profiles. Built with React, Tailwind CSS, and Framer Motion, this project reflects my journey across platforms like LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
+Welcome to **AlgoQueen** — a clean and elegant React-based dashboard that showcases my competitive coding profiles. Built with React, Tailwind CSS, and Framer Motion, this project reflects my journey across platforms like LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
 
 > Crafted with ❤️ by **Siddhi Nagapure**
 
@@ -30,7 +30,7 @@ Welcome to **AlgOQueen** — a clean and elegant React-based dashboard that show
 
 ### 🔗 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-deployment-url.vercel.app)
+👉 [View Live on Vercel]((https://algo-queen-m56xiyhmk-siddhi-nagapures-projects.vercel.app/))
 
 ---
 
