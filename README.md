@@ -43,7 +43,8 @@ Welcome to **AlgoQueen** — a clean and elegant React-based dashboard that show
     └── main.jsx # Entry point
 
 ### 🧠 Purpose
-    This project serves as a personal portfolio hub to showcase my presence and progress across various coding platforms in a simple, yet professional manner.
+    This project serves as a personal portfolio hub to showcase my presence and 
+    progress across various coding platforms in a simple, yet professional manner.
 
 ### 👩‍💻 Author
     Siddhi Nagapure
